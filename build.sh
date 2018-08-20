@@ -3,7 +3,7 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 cd $DIR
 
-cp -f /home/nikky/dev/Voodoo/voodoo/build/libs/voodoo.jar bootstrap-voodoo.jar
+./init.sh
 
 find . -name \*.entry.hjson -type f -delete
 

@@ -1,4 +1,4 @@
-*.jar
-workspace
-.mutlimc
-.curse
+/workspace/
+/.multimc/
+/.curse/
+/*.jar
