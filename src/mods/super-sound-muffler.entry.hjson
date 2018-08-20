@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "super-sound-muffler",
+  "version": "supersoundmuffler-1.12.1-1.0.2.9.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

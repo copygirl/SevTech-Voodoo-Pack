@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "quick-leaf-decay",
+  "version": "QuickLeafDecay-MC1.12.1-1.2.4.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

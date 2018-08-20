@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "thirsty-bottles",
+  "version": "ThirstyBottles-1.12.2-1.1.4.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

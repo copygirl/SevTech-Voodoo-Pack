@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "mo-villages",
+  "version": "[1.12]MoVillages-1.5.4.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

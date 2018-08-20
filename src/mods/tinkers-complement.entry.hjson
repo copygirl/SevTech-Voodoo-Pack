@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "tinkers-complement",
+  "version": "Tinkers Complement 0.2.3b for 1.12.2",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

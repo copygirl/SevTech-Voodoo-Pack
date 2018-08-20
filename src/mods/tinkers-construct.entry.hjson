@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "tinkers-construct",
+  "version": "TConstruct-1.12.2-2.10.1.84.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

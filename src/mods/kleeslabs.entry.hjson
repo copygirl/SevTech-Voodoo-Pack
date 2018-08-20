@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "kleeslabs",
+  "version": "KleeSlabs_1.12.2-5.4.10.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

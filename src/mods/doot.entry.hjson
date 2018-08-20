@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "doot",
+  "version": "Trumpet Skeleton 1.12-1.0.2.1",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

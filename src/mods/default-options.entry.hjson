@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "default-options",
+  "version": "DefaultOptions_1.12.2-9.2.7.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

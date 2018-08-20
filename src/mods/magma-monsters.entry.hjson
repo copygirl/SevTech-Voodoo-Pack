@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "magma-monsters",
+  "version": "MagmaMonsters-0.3.0.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

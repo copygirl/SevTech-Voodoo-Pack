@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "fastworkbench",
+  "version": "FastWorkbench-1.12.2-1.5.0.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

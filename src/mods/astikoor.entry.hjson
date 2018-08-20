@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "astikoor",
+  "version": "[unstable][1.12.2] Horse Cart v1.1.0a",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

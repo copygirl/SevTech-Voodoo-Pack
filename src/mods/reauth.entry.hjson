@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "reauth",
+  "version": "ReAuth-3.6.0 1.12",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

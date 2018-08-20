@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "clumps",
+  "version": "Clumps-3.0.0",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

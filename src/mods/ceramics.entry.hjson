@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "ceramics",
+  "version": "Ceramics v1.3.4 for 1.12.x",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

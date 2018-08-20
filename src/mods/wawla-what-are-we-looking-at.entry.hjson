@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "wawla-what-are-we-looking-at",
+  "version": "Wawla-1.12.2-2.5.257.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

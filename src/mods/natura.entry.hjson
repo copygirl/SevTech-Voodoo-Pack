@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "natura",
+  "version": "natura-1.12.2-4.3.2.49.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

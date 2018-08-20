@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "ctm",
+  "version": "CTM - MC1.12-0.3.0.15",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

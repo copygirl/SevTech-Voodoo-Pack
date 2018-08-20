@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "tomb-many-graves-2",
+  "version": "TombManyGraves2-1.12-4.0.3",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "applied-energistics-2",
+  "version": "appliedenergistics2-rv5-stable-11.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

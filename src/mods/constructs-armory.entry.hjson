@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "constructs-armory",
+  "version": "conarm-1.12.2-0.0.21-rc1.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

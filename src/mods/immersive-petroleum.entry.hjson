@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "immersive-petroleum",
+  "version": "immersivepetroleum-1.12.2-1.1.9.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "emberroot-zoo",
+  "version": "EmberRootZoo-1.12-1.3.7.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

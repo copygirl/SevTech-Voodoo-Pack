@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "no-worldgen-5-you",
+  "version": "NoWorldgen5You-1.12.2-1.0.6.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

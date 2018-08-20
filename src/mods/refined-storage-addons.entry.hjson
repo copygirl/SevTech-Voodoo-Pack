@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "refined-storage-addons",
+  "version": "Refined Storage Addons 0.3",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

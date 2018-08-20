@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "iron-backpacks",
+  "version": "IronBackpacks-1.12.2-3.0.8-12.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

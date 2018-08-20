@@ -1,0 +1,10 @@
+{ 
+	"id": "SevTech1122",
+	"title": "SevTech1.12.2",
+	"version": "3.0.8",
+	"authors": [ 
+		"darkosto"
+	],
+	"mcVersion": "1.12.2",
+	"forge": "2707"
+}

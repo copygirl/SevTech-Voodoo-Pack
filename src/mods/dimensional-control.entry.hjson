@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "dimensional-control",
+  "version": "Dimensional Control 1.12.2-2.10.2",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

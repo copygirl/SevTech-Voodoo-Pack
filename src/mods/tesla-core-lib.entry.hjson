@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "tesla-core-lib",
+  "version": "Tesla Core Lib : 1.0.14.10",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

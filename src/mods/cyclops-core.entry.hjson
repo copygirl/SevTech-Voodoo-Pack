@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "cyclops-core",
+  "version": "CyclopsCore-1.12.2-0.11.6.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

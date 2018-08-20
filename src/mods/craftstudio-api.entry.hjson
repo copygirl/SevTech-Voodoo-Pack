@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "craftstudio-api",
+  "version": "CraftStudio-1.0.0.93-mc1.12-alpha.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

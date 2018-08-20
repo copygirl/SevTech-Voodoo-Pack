@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "in-control",
+  "version": "incontrol-1.12-3.8.0.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

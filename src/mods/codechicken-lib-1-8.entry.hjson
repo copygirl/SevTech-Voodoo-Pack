@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "codechicken-lib-1-8",
+  "version": "CodeChicken Lib 1.12.2-3.1.8.341-universal",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

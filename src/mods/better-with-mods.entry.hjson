@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "better-with-mods",
+  "version": "BetterWithMods-1.12-2.1.24.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

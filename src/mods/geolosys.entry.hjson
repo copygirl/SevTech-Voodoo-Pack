@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "geolosys",
+  "version": "Geolosys 1.9.3",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

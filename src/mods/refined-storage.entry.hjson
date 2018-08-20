@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "refined-storage",
+  "version": "Refined Storage 1.5.34",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

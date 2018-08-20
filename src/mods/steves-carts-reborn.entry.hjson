@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "steves-carts-reborn",
+  "version": "StevesCarts-1.12.2-2.4.20.99.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "foamfix-for-minecraft",
+  "version": "FoamFix 0.9.9.1 Anarchy (1.12.2)",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

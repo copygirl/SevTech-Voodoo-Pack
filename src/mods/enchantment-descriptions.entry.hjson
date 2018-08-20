@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "enchantment-descriptions",
+  "version": "EnchantmentDescriptions-1.12.2-1.1.8.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

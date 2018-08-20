@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "simpleharvest",
+  "version": "Harvest-1.12-1.2.6-18.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

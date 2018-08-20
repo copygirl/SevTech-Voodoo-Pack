@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "pneumaticcraft-repressurized",
+  "version": "pneumaticcraft-repressurized-1.12.2-0.6.6-192.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

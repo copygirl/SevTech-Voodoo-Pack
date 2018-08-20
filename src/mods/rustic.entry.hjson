@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "rustic",
+  "version": "rustic-1.0.5.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

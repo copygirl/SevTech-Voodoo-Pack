@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "wither-skeleton-tweaks",
+  "version": "Wither Skeleton Tweaks-1.12.2-2.6.0.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

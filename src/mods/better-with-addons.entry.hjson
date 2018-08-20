@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "better-with-addons",
+  "version": "Better With Addons-0.41.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

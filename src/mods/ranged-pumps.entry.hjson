@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "ranged-pumps",
+  "version": "Ranged Pumps 0.5",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

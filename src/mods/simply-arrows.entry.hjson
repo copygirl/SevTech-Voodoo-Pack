@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "simply-arrows",
+  "version": "SimplyArrows-1.12.2-1.0.4.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

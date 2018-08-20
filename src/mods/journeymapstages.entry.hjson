@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "journeymapstages",
+  "version": "JourneyMapStages-1.12.2-1.0.3.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

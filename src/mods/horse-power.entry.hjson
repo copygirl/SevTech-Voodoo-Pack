@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "horse-power",
+  "version": "HorsePower-1.12.2-2.6.1.64.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

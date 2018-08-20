@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "no-recipe-book",
+  "version": "noRecipeBook_v1.2.2formc1.12.2.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

@@ -1,0 +1,10 @@
+{ 
+  "provider": "LOCAL",
+  "id": "Nutrition-1.12.2-3.4.0",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "fileSrc": "Nutrition-1.12.2-3.4.0.jar"
+}

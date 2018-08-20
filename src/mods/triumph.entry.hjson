@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "triumph",
+  "version": "Triumph 1.12-1.13.0",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

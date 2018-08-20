@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "realistic-item-drops",
+  "version": "RealisticItemDrops-1.2.12.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

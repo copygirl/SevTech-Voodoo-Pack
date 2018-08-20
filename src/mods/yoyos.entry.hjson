@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "yoyos",
+  "version": "yoyos_1.12.2-1.2.2.20.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

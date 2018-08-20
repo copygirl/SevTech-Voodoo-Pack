@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "traverse",
+  "version": "Traverse v1.5.3 build58 for 1.12.2",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

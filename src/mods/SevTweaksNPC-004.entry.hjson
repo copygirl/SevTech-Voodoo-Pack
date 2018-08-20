@@ -1,0 +1,10 @@
+{ 
+  "provider": "LOCAL",
+  "id": "SevTweaksNPC-0.0.4",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "fileSrc": "SevTweaksNPC-0.0.4.jar"
+}

@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "just-a-raft-mod",
+  "version": "Just A Raft Mod-1.1.2.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

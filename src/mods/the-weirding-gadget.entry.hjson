@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "the-weirding-gadget",
+  "version": "weirdinggadget-1.12.2-2.0.5-universal.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

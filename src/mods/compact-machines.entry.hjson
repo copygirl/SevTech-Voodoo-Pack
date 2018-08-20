@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "compact-machines",
+  "version": "compactmachines3-1.12.2-3.0.12-b215.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

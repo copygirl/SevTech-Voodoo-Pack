@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "ocean-floor-clay-sand-and-dirt",
+  "version": "OceanFloor-1.12-1.0.1.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

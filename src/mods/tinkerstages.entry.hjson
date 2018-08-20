@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "tinkerstages",
+  "version": "TinkerStages-1.12.2-1.0.14.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

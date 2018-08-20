@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "tumbleweed",
+  "version": "Tumbleweed 0.4.5 for MC 1.11.2/1.12.2",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

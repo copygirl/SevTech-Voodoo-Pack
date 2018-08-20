@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "crafttweaker",
+  "version": "CraftTweaker2-1.12-4.1.8",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

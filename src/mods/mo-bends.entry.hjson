@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "mo-bends",
+  "version": "0.24 for Minecraft 1.12",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

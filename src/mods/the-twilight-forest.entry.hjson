@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "the-twilight-forest",
+  "version": "Twilight Forest - MC 1.12.2 - 3.7.424",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

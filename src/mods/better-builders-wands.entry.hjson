@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "better-builders-wands",
+  "version": "Better Builder's Wands 0.11.1 [MC1.12; rev 245]",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

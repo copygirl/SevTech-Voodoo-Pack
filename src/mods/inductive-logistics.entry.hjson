@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "inductive-logistics",
+  "version": "InductiveLogistics-1.12.2-1.2.3.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

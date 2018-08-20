@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "bookshelf",
+  "version": "Bookshelf-1.12.2-2.3.544.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "bedrock-b-gone",
+  "version": "BedrockBGone-1.12.2-5.0-b8.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

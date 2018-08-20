@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "jei",
+  "version": "jei_1.12.2-4.9.2.196.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

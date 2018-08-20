@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "ultimate-car-mod",
+  "version": "Ultimate Car Mod 1.2.11",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

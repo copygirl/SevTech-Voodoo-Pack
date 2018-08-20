@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "together-forever",
+  "version": "togetherforever-1.12.2-1.0.7-13.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

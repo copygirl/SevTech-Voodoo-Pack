@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "simple-storage-network",
+  "version": "SimpleStorageNetwork-1.12.2-1.2.4.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

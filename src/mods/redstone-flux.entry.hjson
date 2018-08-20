@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "redstone-flux",
+  "version": "RedstoneFlux-1.12-2.0.2.3-universal.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

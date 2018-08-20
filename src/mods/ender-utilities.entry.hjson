@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "ender-utilities",
+  "version": "enderutilities-1.12.2-0.7.8.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

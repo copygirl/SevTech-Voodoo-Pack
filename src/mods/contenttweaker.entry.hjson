@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "contenttweaker",
+  "version": "ContentTweaker-1.12.2-4.5.0.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}

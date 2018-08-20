@@ -1,0 +1,15 @@
+{ 
+  "provider": "CURSE",
+  "id": "autoreglib",
+  "version": "AutoRegLib-1.3-17.jar",
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "ALPHA",
+    "BETA",
+    "RELEASE"
+  ]
+}
