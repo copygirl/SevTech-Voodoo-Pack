@@ -5,7 +5,6 @@ entries:
   - btfu-continuous-rsync-incremental-backup
   - swingthroughgrass
   - colorchat
-  - shadowfacts-forgelin
   - provider: JENKINS
     jenkinsUrl: https://ci.elytradev.com
     job: elytra/MatterLink/master

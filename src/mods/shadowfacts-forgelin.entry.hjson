@@ -1,7 +1,7 @@
 { 
   "provider": "CURSE",
   "id": "shadowfacts-forgelin",
-  "side": "SERVER",
+  "version": "Forgelin-1.6.0.jar",
   "validMcVersions": [ 
     "1.12",
     "1.12.1",
