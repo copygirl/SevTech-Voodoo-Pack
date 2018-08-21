@@ -5,15 +5,16 @@ cd $DIR
 
 ./init.sh
 
-echo "copying defaultioptions to serverside"
-serverConfig="$DIR/src/config/_SERVER"
-# do not delete the old server config for now, just overwrite all files
-mkdir -p $serverConfig/..
-rm -r $serverConfig
-cp -rfT "$DIR/src/config/defaultoptions" $serverConfig
-rm "$serverConfig/options.txt"
-rm "$serverConfig/keybindings.txt"
-rm "$serverConfig/servers.dat"
+# echo "copying defaultioptions to serverside"
+# serverConfig="$DIR/src/config/_SERVER"
+# # do not delete the old server config for now, just overwrite all files
+# mkdir -p $serverConfig/..
+# rm -r $serverConfig
+# cp -rfT "$DIR/src/config/defaultoptions" $serverConfig
+# rm "$serverConfig/options.txt"
+# rm "$serverConfig/keybindings.txt"
+# rm "$serverConfig/servers.dat"
+# rmdir $serverConfig
 
 echo "packing server"
 java -jar "$DIR/bootstrap-voodoo.jar" pack server "$DIR/SevTech1122.lock.json"
