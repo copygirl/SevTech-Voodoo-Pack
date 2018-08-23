@@ -1,5 +1,9 @@
 provider: CURSE
 entries:
+- id: "inventory-tweaks"
+  feature:
+    selected: false
+- wearable-backpacks
 - side: SERVER
   entries:
   - btfu-continuous-rsync-incremental-backup

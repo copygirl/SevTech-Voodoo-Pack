@@ -23,5 +23,22 @@
   "localDir": "local",
   "sourceDir": "src",
   "features": [ 
-    ]
+    { 
+      "entries": [ 
+        "inventory-tweaks"
+      ],
+      "properties": { 
+        "name": "Inventory Tweaks",
+        "selected": false,
+        "description": "",
+        "recommendation": null
+      },
+      "files": { 
+        "include": [ 
+          ],
+        "exclude": [ 
+          ]
+      }
+    }
+  ]
 }

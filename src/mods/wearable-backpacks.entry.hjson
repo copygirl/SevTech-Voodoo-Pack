@@ -1,9 +1,6 @@
 { 
   "provider": "CURSE",
-  "id": "inventory-tweaks",
-  "feature": { 
-    "selected": false
-  },
+  "id": "wearable-backpacks",
   "validMcVersions": [ 
     "1.12",
     "1.12.1",

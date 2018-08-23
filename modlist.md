@@ -53,7 +53,7 @@ author codetaylor
   
 ## [ANGRY PIXEL] The Betweenlands  
 version The Betweenlands v3.3.8  
-author MrCompost, voog2, WightofShadows, reporrted, TripleHeadedSheep, TheCyberBrick, Gory_Moon, pau101, BobMowzie, iLexiconn, Vadis365, imdutch21  
+author MrCompost, TripleHeadedSheep, imdutch21, TheCyberBrick, BobMowzie, reporrted, Gory_Moon, iLexiconn, pau101, Vadis365, voog2, WightofShadows  
   
 ## Animalium  
 version Animalium-0.3.7.jar  
@@ -73,7 +73,7 @@ author squeek502
   
 ## Applied Energistics 2  
 version appliedenergistics2-rv5-stable-11.jar  
-author AlgorithmX2, Cisien, akarso, thatsIch, fireball1725  
+author AlgorithmX2, thatsIch, Cisien, fireball1725, akarso  
   
 ## ArmoreableMobs  
 version armoreablemobs-1.12-1.1.6-4.jar  
@@ -105,7 +105,7 @@ author mysticdrew
   
 ## B.A.S.E  
 version base-1.12.2-3.7.2.jar  
-author lanse505, warlordjones, SkySomm, jaredlll08  
+author lanse505, warlordjones, jaredlll08, SkySomm  
   
 ## Baubles  
 version Baubles-1.12-1.5.2.jar  
@@ -137,7 +137,7 @@ author BordListian
   
 ## Better With Mods  
 version BetterWithMods-1.12-2.1.24.jar  
-author BeetoGuy, BordListian, primetoxinz  
+author BeetoGuy, primetoxinz, BordListian  
   
 ## BetterFps  
 version v1.4.8  
@@ -153,7 +153,7 @@ author WayofTime, TehNut
   
 ## BnBGamingCore  
 version BNBGamingCore 1.12-0.8.0  
-author BloodNBonesGaming, superckl, Blargerist  
+author BloodNBonesGaming, Blargerist, superckl  
   
 ## BNBGamingLib  
 version BNBGamingLib 1.12-2.11.2  
@@ -537,7 +537,7 @@ author Kashdeya, Vadis365
   
 ## Mantle  
 version Mantle-1.12-1.3.2.24.jar  
-author mDiyo, progwml6, bonusboni  
+author mDiyo, bonusboni, progwml6  
   
 ## elytra/MatterLink/master 158  
 version MatterLink-1.12.2-1.6.4-158.jar  
@@ -878,7 +878,7 @@ author Shinoow, Darkosto
   
 ## The Twilight Forest  
 version Twilight Forest - MC 1.12.2 - 3.7.424  
-author Benimatic, Drullkus, Tamaized, AtomicBlom, williewillus  
+author Benimatic, Tamaized, williewillus, AtomicBlom, Drullkus  
   
 ## The Weirding Gadget  
 version weirdinggadget-1.12.2-2.0.5-universal.jar  
@@ -894,7 +894,7 @@ author KnightMiner
   
 ## Tinkers Construct  
 version TConstruct-1.12.2-2.10.1.84.jar  
-author mDiyo, bonusboni, KnightMiner  
+author mDiyo, KnightMiner, bonusboni  
   
 ## Tinkers' Tool Leveling  
 version TinkerToolLeveling-1.12.2-1.0.5.jar  
@@ -938,7 +938,7 @@ author ProfessorProspector
   
 ## Triumph  
 version Triumph 1.12-1.13.0  
-author BloodNBonesGaming, Blargerist, superckl  
+author BloodNBonesGaming, superckl, Blargerist  
   
 ## Tumbleweed  
 version Tumbleweed 0.4.5 for MC 1.11.2/1.12.2  
@@ -987,6 +987,10 @@ author Rubironi
 ## Wawla - What Are We Looking At  
 version Wawla-1.12.2-2.5.257.jar  
 author Darkhax  
+  
+## Wearable Backpacks  
+version  Wearable Backpacks - 1.12.2 - 3.1.3  
+author PuppetzMedia, koppeh, asiekierka  
   
 ## Wild Crops  
 version WildCrops-1.12-1.0.1  
