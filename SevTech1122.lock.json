@@ -25,6 +25,23 @@
   "features": [ 
     { 
       "entries": [ 
+        "sampler"
+      ],
+      "properties": { 
+        "name": "Sampler",
+        "selected": false,
+        "description": "",
+        "recommendation": null
+      },
+      "files": { 
+        "include": [ 
+          ],
+        "exclude": [ 
+          ]
+      }
+    },
+    { 
+      "entries": [ 
         "inventory-tweaks"
       ],
       "properties": { 

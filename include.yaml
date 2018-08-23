@@ -1,6 +1,9 @@
 provider: CURSE
 entries:
-- id: "inventory-tweaks"
+- id: inventory-tweaks
+  feature:
+    selected: false
+- id: sampler
   feature:
     selected: false
 - wearable-backpacks

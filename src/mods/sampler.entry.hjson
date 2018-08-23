@@ -1,0 +1,17 @@
+{ 
+  "provider": "CURSE",
+  "id": "sampler",
+  "feature": { 
+    "selected": false
+  },
+  "validMcVersions": [ 
+    "1.12",
+    "1.12.1",
+    "1.12.2"
+  ],
+  "curseReleaseTypes": [ 
+    "RELEASE",
+    "BETA",
+    "ALPHA"
+  ]
+}

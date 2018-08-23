@@ -53,7 +53,7 @@ author codetaylor
   
 ## [ANGRY PIXEL] The Betweenlands  
 version The Betweenlands v3.3.8  
-author MrCompost, TripleHeadedSheep, imdutch21, TheCyberBrick, BobMowzie, reporrted, Gory_Moon, iLexiconn, pau101, Vadis365, voog2, WightofShadows  
+author BobMowzie, Gory_Moon, iLexiconn, imdutch21, MrCompost, pau101, reporrted, TheCyberBrick, TripleHeadedSheep, Vadis365, voog2, WightofShadows  
   
 ## Animalium  
 version Animalium-0.3.7.jar  
@@ -73,7 +73,7 @@ author squeek502
   
 ## Applied Energistics 2  
 version appliedenergistics2-rv5-stable-11.jar  
-author AlgorithmX2, thatsIch, Cisien, fireball1725, akarso  
+author akarso, AlgorithmX2, Cisien, fireball1725, thatsIch  
   
 ## ArmoreableMobs  
 version armoreablemobs-1.12-1.1.6-4.jar  
@@ -105,7 +105,7 @@ author mysticdrew
   
 ## B.A.S.E  
 version base-1.12.2-3.7.2.jar  
-author lanse505, warlordjones, jaredlll08, SkySomm  
+author jaredlll08, lanse505, SkySomm, warlordjones  
   
 ## Baubles  
 version Baubles-1.12-1.5.2.jar  
@@ -137,7 +137,7 @@ author BordListian
   
 ## Better With Mods  
 version BetterWithMods-1.12-2.1.24.jar  
-author BeetoGuy, primetoxinz, BordListian  
+author BeetoGuy, BordListian, primetoxinz  
   
 ## BetterFps  
 version v1.4.8  
@@ -149,15 +149,15 @@ author JDSinclair
   
 ## Blood Magic   
 version BloodMagic-1.12.2-2.2.12-97.jar  
-author WayofTime, TehNut  
+author TehNut, WayofTime  
   
 ## BnBGamingCore  
 version BNBGamingCore 1.12-0.8.0  
-author BloodNBonesGaming, Blargerist, superckl  
+author Blargerist, BloodNBonesGaming, superckl  
   
 ## BNBGamingLib  
 version BNBGamingLib 1.12-2.11.2  
-author BloodNBonesGaming, superckl, Blargerist  
+author Blargerist, BloodNBonesGaming, superckl  
   
 ## Bonsai Trees  
 version bonsaitrees-1.0.5-b77.jar  
@@ -173,27 +173,27 @@ author capitalthree
   
 ## BuildCraft|Builders  
 version BuildCraft Builders 7.99.17  
-author CovertJaguar, AEnterprise  
+author AEnterprise, CovertJaguar  
   
 ## BuildCraft|Core  
 version BuildCraft Core 7.99.17  
-author CovertJaguar, AEnterprise  
+author AEnterprise, CovertJaguar  
   
 ## BuildCraft|Factory  
 version BuildCraft Factory 7.99.17  
-author CovertJaguar, AEnterprise  
+author AEnterprise, CovertJaguar  
   
 ## BuildCraft|Robotics  
 version BuildCraft Robotics 7.99.17  
-author CovertJaguar, AEnterprise  
+author AEnterprise, CovertJaguar  
   
 ## BuildCraft|Silicon  
 version BuildCraft Silicon 7.99.17  
-author CovertJaguar, AEnterprise  
+author AEnterprise, CovertJaguar  
   
 ## BuildCraft|Transport  
 version BuildCraft Transport 7.99.17  
-author CovertJaguar, AEnterprise  
+author AEnterprise, CovertJaguar  
   
 ## Caliper  
 version Caliper-1.12.2-1.1.35.jar  
@@ -201,7 +201,7 @@ author Darkhax
   
 ## Carry On  
 version CarryOn MC1.12.2 v1.9  
-author Tschipp, Purplicious_Cow  
+author Purplicious_Cow, Tschipp  
   
 ## CD4017BE Library  
 version CD4017BE_lib-1.12.2-6.2.4.jar  
@@ -221,7 +221,7 @@ author Gory_Moon
   
 ## Chisel  
 version Chisel - MC1.12.2-0.2.0.31  
-author tterrag1098, Minecreatr, Drullkus  
+author Drullkus, Minecreatr, tterrag1098  
   
 ## Chisels & Bits  
 version chiselsandbits-14.17.jar  
@@ -237,7 +237,7 @@ author jaredlll08
   
 ## CodeChicken Lib 1.8.+  
 version CodeChicken Lib 1.12.2-3.1.8.341-universal  
-author covers1624, chicken_bones  
+author chicken_bones, covers1624  
   
 ## ColorChat  
 version colorchat-1.12.1-2.0.43-universal.jar  
@@ -273,7 +273,7 @@ author BlayTheNinth
   
 ## CraftStudio API  
 version CraftStudio-1.0.0.93-mc1.12-alpha.jar  
-author ZeAmateis, Timmypote  
+author Timmypote, ZeAmateis  
   
 ## CraftTweaker  
 version CraftTweaker2-1.12-4.1.8  
@@ -321,7 +321,7 @@ author Darkhax
   
 ## Dimensional Control  
 version Dimensional Control 1.12.2-2.10.2  
-author BloodNBonesGaming, Blargerist, superckl  
+author Blargerist, BloodNBonesGaming, superckl  
   
 ## Trumpet Skeleton  
 version Trumpet Skeleton 1.12-1.0.2.1  
@@ -341,7 +341,7 @@ author Darkhax
   
 ## Ender Storage 1.8.+  
 version Ender Storage 1.12.2-2.4.3.130-universal  
-author covers1624, chicken_bones  
+author chicken_bones, covers1624  
   
 ## Ender Utilities  
 version enderutilities-1.12.2-0.7.8.jar  
@@ -477,7 +477,7 @@ author gr8pefish, TehNut
   
 ## Iron Chests  
 version ironchest-1.12.2-7.0.40.824.jar  
-author progwml6, Alexbegt  
+author Alexbegt, progwml6  
   
 ## Iron Jetpacks  
 version ironjetpacks-1.12-1.0.5.jar  
@@ -537,7 +537,7 @@ author Kashdeya, Vadis365
   
 ## Mantle  
 version Mantle-1.12-1.3.2.24.jar  
-author mDiyo, bonusboni, progwml6  
+author bonusboni, mDiyo, progwml6  
   
 ## elytra/MatterLink/master 158  
 version MatterLink-1.12.2-1.6.4-158.jar  
@@ -614,7 +614,7 @@ author SkySomm
   
 ## Mundane Redstone Ore  
 version MundaneRedstone-1.1.3.jar  
-author svennieke, mrbysco  
+author mrbysco, svennieke  
   
 ## MystAgrad Cloche Compat  
 version mystagradcompat-1.2.jar  
@@ -630,7 +630,7 @@ author BlakeBr0
   
 ## Natura  
 version natura-1.12.2-4.3.2.49.jar  
-author mDiyo, Alexbegt, progwml6  
+author Alexbegt, mDiyo, progwml6  
   
 ## Nature's Compass  
 version NaturesCompass-1.12.2-1.5.1.jar  
@@ -666,7 +666,7 @@ author VsnGamer
   
 ## Ore Excavation  
 version OreExcavation-1.4.118.jar  
-author Funwayguy, Darkosto  
+author Darkosto, Funwayguy  
   
 ## Ore Prospectors  
 version prospectors-1.0.1.jar  
@@ -714,7 +714,7 @@ author Darkhax, jaredlll08
   
 ## Primal Tech  
 version PrimalTech-0.3.3.jar  
-author Vadis365, Darkosto  
+author Darkosto, Vadis365  
   
 ## PrimalChests  
 version PrimalChests-1.0.3  
@@ -754,11 +754,11 @@ author TechnicianLP
   
 ## Reborn Core  
 version RebornCore-1.12.2-3.8.7.295-universal.jar  
-author modmuss50, Gigabit1011, ProfessorProspector  
+author Gigabit1011, modmuss50, ProfessorProspector  
   
 ## Reborn Storage  
 version RebornStorage-1.12.2-3.1.0.50.jar  
-author modmuss50, Gigabit1011  
+author Gigabit1011, modmuss50  
   
 ## Recipe Stages  
 version RecipeStages-1.0.8  
@@ -770,7 +770,7 @@ author Ivorforce
   
 ## Redstone Flux  
 version RedstoneFlux-1.12-2.0.2.3-universal.jar  
-author TeamCoFH, KingLemming  
+author KingLemming, TeamCoFH  
   
 ## Refined Storage  
 version Refined Storage 1.5.34  
@@ -799,6 +799,10 @@ author Thretcha
 ## Rustic  
 version rustic-1.0.5.jar  
 author mangoose3039  
+  
+## Sampler  
+version sampler-1.73.jar  
+author Player  
   
 ## Scannable  
 version Scannable-MC1.12-1.6.3.19.jar  
@@ -874,11 +878,11 @@ author Face_of_Cat
   
 ## The Beneath  
 version The Beneath-1.12.2-1.4.1.jar  
-author Shinoow, Darkosto  
+author Darkosto, Shinoow  
   
 ## The Twilight Forest  
 version Twilight Forest - MC 1.12.2 - 3.7.424  
-author Benimatic, Tamaized, williewillus, AtomicBlom, Drullkus  
+author AtomicBlom, Benimatic, Drullkus, Tamaized, williewillus  
   
 ## The Weirding Gadget  
 version weirdinggadget-1.12.2-2.0.5-universal.jar  
@@ -894,7 +898,7 @@ author KnightMiner
   
 ## Tinkers Construct  
 version TConstruct-1.12.2-2.10.1.84.jar  
-author mDiyo, KnightMiner, bonusboni  
+author bonusboni, KnightMiner, mDiyo  
   
 ## Tinkers' Tool Leveling  
 version TinkerToolLeveling-1.12.2-1.0.5.jar  
@@ -910,7 +914,7 @@ author jaredlll08
   
 ## "To the Bat Poles!"  
 version tothebatpoles-1.12-1.1.0.0.jar  
-author Seth0067, EnderLanky  
+author EnderLanky, Seth0067  
   
 ## Toast Control  
 version Toast Control-1.12.2-1.6.0.jar  
@@ -938,7 +942,7 @@ author ProfessorProspector
   
 ## Triumph  
 version Triumph 1.12-1.13.0  
-author BloodNBonesGaming, superckl, Blargerist  
+author Blargerist, BloodNBonesGaming, superckl  
   
 ## Tumbleweed  
 version Tumbleweed 0.4.5 for MC 1.11.2/1.12.2  
@@ -990,7 +994,7 @@ author Darkhax
   
 ## Wearable Backpacks  
 version  Wearable Backpacks - 1.12.2 - 3.1.3  
-author PuppetzMedia, koppeh, asiekierka  
+author asiekierka, koppeh, PuppetzMedia  
   
 ## Wild Crops  
 version WildCrops-1.12-1.0.1  
