@@ -8,8 +8,8 @@
     "1.12.2"
   ],
   "curseReleaseTypes": [ 
-    "ALPHA",
+    "RELEASE",
     "BETA",
-    "RELEASE"
+    "ALPHA"
   ]
 }
