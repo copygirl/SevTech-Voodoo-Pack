@@ -79,14 +79,6 @@ author akarso, AlgorithmX2, Cisien, fireball1725, thatsIch
 version armoreablemobs-1.12-1.1.6-4.jar  
 author Buuz135  
   
-## Aroma1997Core  
-version Aroma1997Core-1.12.2-1.3.0.2.jar  
-author Aroma1997  
-  
-## AromaBackup  
-version AromaBackup-1.12.2-2.1.1.3.jar  
-author Aroma1997  
-  
 ## Astikoor [Horse Carts]  
 version [unstable][1.12.2] Horse Cart v1.1.0a  
 author MennoMax  
