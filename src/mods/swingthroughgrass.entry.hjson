@@ -1,7 +1,7 @@
 { 
   "provider": "CURSE",
   "id": "swingthroughgrass",
-  "side": "SERVER",
+  "version": "stg-1.12.2-1.2.3.jar",
   "validMcVersions": [ 
     "1.12",
     "1.12.1",

@@ -1,7 +1,8 @@
 { 
-  "id": "SevTech1122",
-  "title": "SevTech1.12.2",
+  "id": "SevTech",
+  "title": "SevTech Ages",
   "version": "3.0.8",
+  "icon": "icon.png",
   "authors": [ 
     "darkosto"
   ],
@@ -29,6 +30,23 @@
       ],
       "properties": { 
         "name": "Sampler",
+        "selected": false,
+        "description": "",
+        "recommendation": null
+      },
+      "files": { 
+        "include": [ 
+          ],
+        "exclude": [ 
+          ]
+      }
+    },
+    { 
+      "entries": [ 
+        "better-foliage"
+      ],
+      "properties": { 
+        "name": "Better Foliage",
         "selected": false,
         "description": "",
         "recommendation": null

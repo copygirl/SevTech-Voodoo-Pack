@@ -10,3 +10,7 @@ if [ ! $? -eq 0 ]; then
     echo "Error importing $pack from curse"
     exit 1
 fi
+
+rm SevTech1122.yaml
+rm SevTech1122.pack.hjson
+rm SevTech1122.lock.json

@@ -1,0 +1,57 @@
+---
+id: "SevTech1122"
+title: "SevTech Ages"
+version: "3.0.8"
+icon: "icon.png"
+authors:
+- "darkosto"
+forge: "2707"
+mcVersion: "1.12.2"
+localDir: "local"
+sourceDir: "src"
+userFiles:
+  include:
+  - "options.txt"
+  - "optionsshaders.txt"
+  exclude: []
+root:
+  provider: CURSE
+  validMcVersions:
+  - "1.12"
+  - "1.12.1"
+  curseReleaseTypes:
+  - RELEASE
+  - BETA
+  - ALPHA
+  entries:
+  # common
+  - wearable-backpacks
+  - feature:
+      selected: false
+    entries:
+    - inventory-tweaks
+    - sampler
+  # clientside
+  - side: CLIENT
+    entries:
+    - feature:
+        selected: false
+      entries:
+      - better-foliage
+  # serverside
+  - side: SERVER
+    entries:
+    - btfu-continuous-rsync-incremental-backup
+    - provider: JENKINS
+      jenkinsUrl: https://ci.elytradev.com
+      job: elytra/MatterLink/master
+      id: matterlink
+      dependencies:
+        REQUIRED:
+        - shadowfacts-forgelin
+  # disable entries
+  - enabled: false
+    entries:
+    - aromabackup
+    - aroma1997core
+  - include: "SevTech1122_entries.yaml"

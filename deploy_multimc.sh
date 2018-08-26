@@ -6,7 +6,7 @@ cd $DIR
 ./init.sh
 
 echo "packing mmc instance"
-java -jar "$DIR/bootstrap-voodoo.jar" pack mmc "$DIR/SevTech1122.lock.json"
+java -jar "$DIR/bootstrap-voodoo.jar" pack mmc "$DIR/SevTech.lock.json"
 if [ ! $? -eq 0 ]; then
     echo "Error in step: Pack MultiMC"
     exit 1

@@ -17,7 +17,7 @@ cd $DIR
 # rmdir $serverConfig
 
 echo "packing server"
-java -jar "$DIR/bootstrap-voodoo.jar" pack server "$DIR/SevTech1122.lock.json"
+java -jar "$DIR/bootstrap-voodoo.jar" pack server "$DIR/SevTech.lock.json"
 if [ ! $? -eq 0 ]; then
     echo "Error in step: Pack Server"
     exit 1

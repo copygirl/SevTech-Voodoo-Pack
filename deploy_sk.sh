@@ -6,7 +6,7 @@ cd $DIR
 ./init.sh
 
 echo "packing sk"
-java -jar "$DIR/bootstrap-voodoo.jar" pack sk "$DIR/SevTech1122.lock.json"
+java -jar "$DIR/bootstrap-voodoo.jar" pack sk "$DIR/SevTech.lock.json"
 if [ ! $? -eq 0 ]; then
     echo "Error in step: Pack SK"
     exit 1

@@ -5,8 +5,6 @@ cd $DIR
 
 ./build.sh
 
-./tome.sh
-
 ./deploy_sk.sh
 
 ./deploy_server.sh
