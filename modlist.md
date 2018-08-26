@@ -1,7 +1,7 @@
 # SevTech Ages  
 field | value  
 ---|---  
-ID | `SevTech`  
+ID | `SevTech1122`  
 version | `3.0.8`  
 MC Version | `1.12.2`  
 Authors | `darkosto`  

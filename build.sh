@@ -14,6 +14,9 @@ if [ ! $? -eq 0 ]; then
     exit 1
 fi
 
+#TODO: add -o option to override output filename
+mv -f SevTech1122.pack.hjson SevTech.pack.hjson
+
 find . -name \*.entry.lock.json -type f -delete
 
 echo "Building Modpack"
